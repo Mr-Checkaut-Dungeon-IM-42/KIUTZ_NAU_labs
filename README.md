@@ -6,17 +6,21 @@ This repository contains laboratory works and assignments completed during the 1
 
 The repository is organized by subject and lab number:
 
-- **ОПАМ/** - Fundamentals of Algorithmic Programming
-  - **1 semester/** - First semester assignments
-    - **МКР2/** - Control works
-    - **лаба 3/** - Lab 3
-    - **лаба 4/** - Lab 4
-  - **2 semester/** - Second semester assignments
-- **ОС/** - Operating Systems
-  - **lab 3/** - File and directory management
-  - **lab 4/** - Process management
-  - **lab 5/** - System security
-- **.vscode/** - VS Code configuration
+```text
+KIUTZ_NAU_labs/  
+├── ОПАМ/               # Fundamentals of Algorithmic Programming  
+│   ├── 1 semester/     # First semester assignments  
+│   │   ├── МКР2/       # Control works  
+│   │   ├── лаба 3/     # Lab 3  
+│   │   └── лаба 4/     # Lab 4  
+│   └── 2 semester/     # Second semester assignments  
+├── ОС/                 # Operating Systems  
+│   ├── lab 3/          # File and directory management  
+│   ├── lab 4/          # Process management  
+│   └── lab 5/          # System security  
+└── .vscode/            # VS Code configuration  
+```
+
 
 ## Course Content
 
