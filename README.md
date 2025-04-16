@@ -72,11 +72,4 @@ Most programs can be run in their respective environments:
 - Python files can be executed with a Python interpreter
 - C# files can be compiled with .NET compiler
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-*Заздалегідь приношу вибачення за код.*  
 (Advance apologies for the code quality.)
